@@ -1,7 +1,7 @@
 -  Hi, I’m @Txwariaditya
--  I’m interested in ML, AI, Data Science
+-  I’m interested in AI/ML, Data Science
 -  I’m currently learning Python
--  How to reach me txwariaditya@gmail.com
+-  How to reach me? :- txwariaditya@gmail.com
 -  Pronouns: He/Him
 
 <!---
