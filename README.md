@@ -2,7 +2,7 @@
 -  I’m interested in AI/ML, Data Science
 -  I’m currently learning Mechine Learning 
 -  How to reach me? :- txwariaditya@gmail.com
--  Curently working on Personal Finance & Expense Analytics System
+-  Curently working on Cloud Tech
 
 <!---
 Txwariaditya/Txwariaditya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
