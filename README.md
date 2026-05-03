@@ -36,20 +36,20 @@ aditya = {
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<!-- ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
+<!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -->
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🗄️ Data & Backend
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) -->
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💰 Personal Finance Analytics System
+<!-- ### 💰 Personal Finance Analytics System
 > *The flagship project — end-to-end ML pipeline with real deployment*
 
 - 📥 Excel upload → automatic transaction categorization (classification)
@@ -60,7 +60,7 @@ aditya = {
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![ML](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![ML](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) -->
 
 ---
 
@@ -87,7 +87,13 @@ aditya = {
 ## 📊 GitHub Stats
 
 <div align="center">
-    
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Txwariaditya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Txwariaditya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="160"/>
+
+<br/> -->
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Txwariaditya&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="160"/>
 
 </div>
