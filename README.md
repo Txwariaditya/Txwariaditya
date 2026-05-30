@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20in%20the%20Making&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+real+AI+systems%2C+not+just+notebooks.;B.Tech+AIML+%7C+Year+3+%7C+Jaipur%2C+India;Python+%7C+ML+%7C+AWS+%7C+Docker;Shipping+projects+that+actually+work.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+AIML+%7C+Year+3+%7C+India;Python+%7C+ML+%7C+AWS+%7C+Docker;Shipping+projects+that+actually+work.)](https://git.io/typing-svg)
 
 </div>
 
