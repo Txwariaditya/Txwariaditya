@@ -100,7 +100,7 @@ aditya = {
 
 ---
 
-## 🗺️ 2025 Roadmap
+<!-- ## 🗺️ 2025 Roadmap
 
 ```
 [██████████] Python & ML Fundamentals     ✅ Done
@@ -109,7 +109,7 @@ aditya = {
 [████░░░░░░] AWS Solutions Architect       📅 Planned
 [██░░░░░░░░] MLOps & CI/CD pipelines      🔮 Goal
 ```
-
+ -->
 ---
 
 ## 📫 Connect With Me
