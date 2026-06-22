@@ -12,7 +12,7 @@
 
 ```python
 aditya = {
-    "role"       : "Aspiring AI/ML Engineer",
+    "role"       : "AI/ML Engineer",
     "education"  : "B.Tech AIML — Year 3",
     "location"   : "Jaipur, Rajasthan 🇮🇳",
     "focus"      : ["Machine Learning", "Cloud Infrastructure", "MLOps"],
@@ -110,7 +110,7 @@ aditya = {
 [██░░░░░░░░] MLOps & CI/CD pipelines      🔮 Goal
 ```
  -->
----
+
 
 ## 📫 Connect With Me
 
