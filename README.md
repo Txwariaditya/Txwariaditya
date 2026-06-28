@@ -18,7 +18,7 @@ aditya = {
     "focus"      : ["Machine Learning", "Cloud Infrastructure", "MLOps"],
     "goal"       : "Ship real AI products — not just theory.",
     "interests"  : ["HealthTech AI", "Anomaly Detection", "Data Engineering"],
-    "currently"  : "Building a Personal Finance Analytics System on AWS 🚀",
+    "currently"  : "Building a Loan Pridiction System on AWS 🚀",
 }
 ```
 
